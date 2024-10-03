@@ -1,0 +1,182 @@
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\ServerLibrary.exe.config
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\ServerLibrary.exe
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\ServerLibrary.pdb
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\EntityFramework.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Buffers.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Memory.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Text.Encodings.Web.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Text.Json.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.ValueTuple.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\EntityFramework.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Buffers.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Memory.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Numerics.Vectors.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Text.Encodings.Web.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Text.Json.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\System.ValueTuple.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\obj\Debug\ServerLibrary.csproj.AssemblyReference.cache
+D:\KhoSource\QuanLyThuVien\ServerLibrary\obj\Debug\ServerLibrary.Properties.Resources.resources
+D:\KhoSource\QuanLyThuVien\ServerLibrary\obj\Debug\ServerLibrary.csproj.GenerateResource.cache
+D:\KhoSource\QuanLyThuVien\ServerLibrary\obj\Debug\ServerLibrary.csproj.CoreCompileInputs.cache
+D:\KhoSource\QuanLyThuVien\ServerLibrary\obj\Debug\ServerLi.AF94C59E.Up2Date
+D:\KhoSource\QuanLyThuVien\ServerLibrary\obj\Debug\ServerLibrary.exe
+D:\KhoSource\QuanLyThuVien\ServerLibrary\obj\Debug\ServerLibrary.pdb
+D:\KhoSource\QuanLyThuVien\ServerLibrary\obj\Debug\ServerLibrary.Form1.resources
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\JWT.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\JWT.pdb
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\JWT.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\BouncyCastle.Crypto.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary\bin\Debug\BouncyCastle.Crypto.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.csproj.AssemblyReference.cache
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.Properties.Resources.resources
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.View.Dashboard.resources
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.View.FormChiTietSach.resources
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.View.FormDangKy.resources
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.View.FormDanhGia.resources
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.FormLogin.resources
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.View.FormProfile.resources
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.View.FormSlideBook.resources
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.csproj.GenerateResource.cache
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.csproj.CoreCompileInputs.cache
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.exe
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.pdb
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\ServerLibrary.exe.config
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\ServerLibrary.exe
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\ServerLibrary.pdb
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\BouncyCastle.Crypto.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\EntityFramework.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\EntityFramework.SqlServer.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\JWT.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Newtonsoft.Json.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Buffers.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Memory.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Numerics.Vectors.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Text.Encodings.Web.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Text.Json.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.ValueTuple.dll
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\BouncyCastle.Crypto.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\EntityFramework.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\EntityFramework.SqlServer.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\JWT.pdb
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\JWT.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Buffers.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Memory.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Numerics.Vectors.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Text.Encodings.Web.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Text.Json.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\bin\Debug\System.ValueTuple.xml
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLi.AF94C59E.Up2Date
+D:\KhoSource\QuanLyThuVien\ServerLibrary - Copy\obj\Debug\ServerLibrary.View.FormDocSach.resources
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\ServerLibrary.exe.config
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\ServerLibrary.exe
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\ServerLibrary.pdb
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\BouncyCastle.Crypto.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\EntityFramework.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\EntityFramework.SqlServer.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\JWT.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Newtonsoft.Json.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Buffers.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Memory.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Numerics.Vectors.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Text.Encodings.Web.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Text.Json.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.ValueTuple.dll
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\BouncyCastle.Crypto.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\EntityFramework.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\EntityFramework.SqlServer.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\JWT.pdb
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\JWT.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\Newtonsoft.Json.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Buffers.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Memory.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Numerics.Vectors.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Text.Encodings.Web.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Text.Json.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\bin\Debug\System.ValueTuple.xml
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.csproj.AssemblyReference.cache
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.Properties.Resources.resources
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.View.Dashboard.resources
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.View.FormChiTietSach.resources
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.View.FormDangKy.resources
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.View.FormDanhGia.resources
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.View.FormDocSach.resources
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.FormLogin.resources
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.View.FormProfile.resources
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.View.FormSlideBook.resources
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.csproj.GenerateResource.cache
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.csproj.CoreCompileInputs.cache
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLi.AF94C59E.Up2Date
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.exe
+D:\KhoSource\QuanLyThuVien-Final\ServerLibrary-Final\obj\Debug\ServerLibrary.pdb
